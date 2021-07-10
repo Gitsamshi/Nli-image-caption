@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AoANet.iml" filepath="$PROJECT_DIR$/.idea/AoANet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PycharmProjects/RareVR-Cap/.idea/RareVR-Cap.iml" filepath="$PROJECT_DIR$/../PycharmProjects/RareVR-Cap/.idea/RareVR-Cap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SGAE/.idea/SGAE.iml" filepath="$PROJECT_DIR$/../SGAE/.idea/SGAE.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="223">
+    <serverData>
+      <paths name="103">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/18zs11/AoANet" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/home/18zs11/RareVR-Cap" local="$PROJECT_DIR$/../PycharmProjects/RareVR-Cap" web="/" />
+            <mapping deploy="/home/18zs11/SGAE" local="$PROJECT_DIR$/../SGAE" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="223">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/18zs11/AoANet" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
