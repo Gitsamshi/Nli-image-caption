@@ -16,7 +16,7 @@ ACL 2021
 
 ### Prepare data
 
-See details in `data/README.md`.
+See Most details in `data/README.md`.
 
 Download nli data [here](https://drive.google.com/drive/folders/1wD8ThjwQknvOiRlxRvcVXgflZ69CXnsW?usp=sharing). 
 
