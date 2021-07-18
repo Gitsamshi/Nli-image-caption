@@ -37,6 +37,7 @@ $ CUDA_VISIBLE_DEVICES=0 ./train_aoa.sh
 
 
 ### Evaluation
+You may use trained models are available here [google drive](https://drive.google.com/drive/folders/1lAvHI4Jek2Avbv2DLlPI0_btRQ62ZjZG?usp=sharing)
 
 ```bash
 $ CUDA_VISIBLE_DEVICES=0 ./test-best.sh
