@@ -49,6 +49,20 @@ $ CUDA_VISIBLE_DEVICES=0 ./test-best.sh
 If you find this repo helpful, please consider citing:
 
 ```
+@inproceedings{shi-etal-2021-enhancing,
+    title = "Enhancing Descriptive Image Captioning with Natural Language Inference",
+    author = "Shi, Zhan  and
+      Liu, Hui  and
+      Zhu, Xiaodan",
+    booktitle = "Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 2: Short Papers)",
+    month = aug,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.acl-short.36",
+    doi = "10.18653/v1/2021.acl-short.36",
+    pages = "269--277",
+}
 
 ```
 
